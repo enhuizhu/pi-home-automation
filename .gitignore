@@ -1,0 +1,4 @@
+jsServer/node_modules
+*.swp
+**/*.swp
+.swp

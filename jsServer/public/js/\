@@ -1,0 +1,5 @@
+jQuery(document).ready(function() {
+  jQuery('onBtn').on('click', function() {
+    console.log('turn on light');
+  });
+})
